@@ -1,0 +1,14 @@
+{
+  "monday": {
+    "20:00": "Name"
+  },
+  "tuesday": {},
+  "wednesday": {},
+  "thursday": {},
+  "friday": {},
+  "saturday": {
+    "18:00": "Multiple",
+    "20:00": "In one day"
+  },
+  "sunday": {}
+}

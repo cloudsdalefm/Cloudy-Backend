@@ -1,0 +1,20 @@
+{
+  "name": "cloudy",
+  "version": "1.2.0",
+  "description": "Streaming bot made for CloudsdaleFM using nodeshout",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BlackBird",
+  "license": "MPL 2.0",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "colors": "^1.1.2",
+    "express": "^4.15.4",
+    "fuse.js": "^3.2.0",
+    "nodeshout": "^0.1.1",
+    "node-fetch": "^2.1.2"
+  }
+}
